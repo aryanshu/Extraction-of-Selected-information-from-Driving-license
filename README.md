@@ -1,0 +1,1 @@
+# Extraction-of-vital-imformation-from-Driving-license-using-azure-vision-ocr
