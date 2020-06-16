@@ -1,6 +1,6 @@
 # Extracting information from drving license using OCR
 ## Overview
-<b>In this project i have created a model which can extract specific information from driving license mainly belonging to Delhi and with other two states of india with around 10 different formats . I have used coginitive vision OCR api for text detection .The model gives around 90% accuracy(field wise) on classifying fields such as Registration number , Engine number , Reg date ,Name , VIN number or Chassis number (typically 17 digit long) , MFG date etc.</b>
+<b>In this project i have created a model which can extract specific information from driving license mainly belonging to Delhi and other two states of india with around 10 different formats . I have used coginitive vision OCR api for text detection .The model gives around 90% accuracy(field wise) on fields such as Registration number , Engine number , Reg date ,Name , VIN number or Chassis number (typically 17 digit long) , MFG date etc.</b>
 <p align='center'>
   <img src="images/Driving(sample).jpg"  width=400/>
     
