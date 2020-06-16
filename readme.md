@@ -2,9 +2,9 @@
 ## Overview
 <b>In this project i have created a model which can extract specific information from driving license mainly belonging to Delhi and with other two states of india with around 10 different formats . I have used coginitive vision OCR api for text detection .The model gives around 90% accuracy(field wise) on classifying fields such as Registration number , Engine number , Reg date ,Name , VIN number or Chassis number (typically 17 digit long) , MFG date etc.</b>
 
-<img src="images/coginitive.png" width=400>
-<img src="images/coginitive.jpg" align= right width=400>
+<img src="images/coginitive.png" align=center width=800>
 
+<br>
 
 ## API selection
 As we have to do extraction of some information from an image. We need to use OCR(Optical character recognition ) technique to do the task , but as most of the open source OCR api’s are good enough to work with but they didn’t provide best results .So i decided to go with Microsoft azure cognitive vision ocr api  . First I used its OCR service after a while I realised that going with cognitive vision handwritten text recognition api might be more insightful because it's going to have some NLP algorithms within it as I worked with NLP a lot in the past .
