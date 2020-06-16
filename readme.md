@@ -2,8 +2,8 @@
 ## Overview
 <b>In this project i have created a model which can extract specific information from driving license mainly belonging to Delhi and with other two states of india with around 10 different formats . I have used coginitive vision OCR api for text detection .The model gives around 90% accuracy(field wise) on classifying fields such as Registration number , Engine number , Reg date ,Name , VIN number or Chassis number (typically 17 digit long) , MFG date etc.</b>
 
-<img src="coginitive.png" width="400px">
-<img src="coginitve.jpg" width='400px'>
+<img src="images/coginitive.png" width=400>
+<img src="images/coginitive.jpg" align= right width=400>
 
 
 ## API selection
