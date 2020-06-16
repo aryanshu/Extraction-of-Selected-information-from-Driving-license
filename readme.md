@@ -33,7 +33,7 @@ But the problem is that it doesn’t return the coordinates with new alignment ,
 ## Calling Api
 
 <p align='center'>
-  <img src="images/arch-diagram.png"  width=900/>
+  <img src="images/arch-diagram.png"  />
     
 </p>
 After that , If we make a call to api with an image it returns a json formatted file.
